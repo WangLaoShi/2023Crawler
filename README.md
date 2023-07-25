@@ -4,7 +4,7 @@
 
 1. 本地安装 Chrome 浏览器
 2. 清楚 Chrome 的版本
-3. 下载对应的 ChromeDriver
+3. 下载对应的 [ChromeDriver](https://chromedriver.chromium.org/downloads)
 4. 在命令行中执行命令
 
 ## 步骤
